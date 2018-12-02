@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,800');
+*{
+    font-family: Montserrat;
+    font-weight: 800;
+}
+.text-header{
+    font-family: Montserrat;
+    font-size: 28px;
+    font-weight: 800;
+    margin: 20px;
+}
+
+.text-span{
+    color:#db1818;
+}
+
+.genre-span{
+    font-size: 30px;
+    color:#db1818;
+}
+
+.ant-carousel .slick-slide {
+    height: 700px;
+    overflow: hidden;
+  }
+  
+  .ant-carousel .slick-slide h3 {
+    color: #fff;
+    font-size: 30px;
+    z-index: 10;
+    position: absolute;
+    top:0;
+    left:0;
+  }

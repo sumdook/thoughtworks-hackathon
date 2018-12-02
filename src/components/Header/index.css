@@ -1,0 +1,26 @@
+.ant-select-auto-complete.ant-select .ant-input:hover {
+    border-color: #FFF;
+    border-right-width: 1px !important;
+  }
+
+
+.header{
+    background: rgb(231,46,46);
+    background: linear-gradient(190deg, rgb(214, 43, 43) 0%, rgba(99,15,15,1) 100%); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+}
+
+.logo {
+    width: 200px;
+    height: 31px;
+    background-image: url('http://losingsightofshore.com/assets/stuff/2017/04/icon_netflix_light.svg');
+    background-size: contain;
+    background-repeat: no-repeat;  
+    margin: 16px auto;
+}
+
+.searchBar{
+    width: 120px;
+    height: 31px;
+    margin: 16px 28px 16px 79px;
+}

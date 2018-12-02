@@ -1,0 +1,5 @@
+.mainBackground{
+    background: rgb(205,50,27);
+    background: linear-gradient(355.5deg, rgb(122, 11, 11) 45.5%, rgb(236, 236, 236) 46%);
+    height: 100%;
+}
